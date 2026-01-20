@@ -1,0 +1,173 @@
+{
+  "subject": "english",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Poetic Devices",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4620642/1764941951_6566663966552734/sunny/1764941911359_848440001680696400_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Determiners",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623329/1765268743_7026822479890317/sunny/1765268550755_661203917340882600_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Iswaran the Storyteller",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623298/1765267118_9983979221275652/sunny/1765267045248_536236432808580000_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Wind",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623294/1765267115_2110311788365212/sunny/1765266797593_785082022651654100_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Sound of Music",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623330/1765268744_2751359865561876/sunny/1765268597374_592990937977131800_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Models",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623331/1765268745_4237612752506620/sunny/1765268630490_401428563662963300_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "The Adventures of Toto",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623295/1765267116_8572251220867025/sunny/1765266835531_616745862198651000_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch8",
+      "title": "Tenses",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623334/1765268767_8276234231846879/sunny/1765268708385_242518006266772160_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch9",
+      "title": "The fun they had",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4620649/1764942299_8052901128326630/sunny/1764942289704_666671060230481500_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "The Lost Child",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4620648/1764942298_8210805019305208/sunny/1764942286575_277147871896176960_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "The Little Girl",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623293/1765267114_6654011882189158/sunny/1765266776404_354398176754472600_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "The Road Not Taken (poetry)",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4623296/1765267117_6990896220015762/sunny/1765266897128_280092707083984860_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Descriptive Writing",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4653749/1767959360_9866068231603498/sunny/1767959257445_13333211681812496_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Story Writing",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4653748/1767959359_6512539237865867/sunny/1767959176643_644631875241355000_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
